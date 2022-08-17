@@ -31,7 +31,7 @@ Hi everyone! I'm Alex Custódio, a backend and gamedeveloper (With a special int
 
 #### 📞Contact Me:
 </p>
-<a href="alex.cstd.contato@gmail.com" alt="Gmail">
+<a href="mailto:alex.cstd.contato@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/alex.cstd.contato@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:alex.cstd.contato@gmail.com"/>
 </a>
 
