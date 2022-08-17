@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi everyone! I'm Alex Custódio, a brazilian fullstack and game developer (With a special interest in the web 3.0, linux and open source)
+Hi everyone! I'm Alex Custódio, a backend and gamedeveloper (With a special interest in the web 3.0)
 </h1>
 
 > <h3>📚 Skills:</h3>
@@ -29,6 +29,16 @@ Hi everyone! I'm Alex Custódio, a brazilian fullstack and game developer (With 
   <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div> 
 
+#### 📞Contact Me:
+</p>
+<a href="alex.cstd.contato@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/alex.cstd.contato@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:alex.cstd.contato@gmail.com"/>
+</a>
+
+<a href="https://www.instagram.com/alexcustodiodev/">
+  <img src="https://img.shields.io/badge/@alexcustodiodev-ebebeb?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/alexcustodiodev/"/>
+</a>
+
 #### 🚀 Projects:
 - [The King of Quest](https://anemonaaass.itch.io/the-king-of-quest) My game made for the gamedev.tv 2022 game jam, with [Namur Sebastião](https://github.com/NRTarnished);
 
@@ -45,6 +55,7 @@ Hi everyone! I'm Alex Custódio, a brazilian fullstack and game developer (With 
 </div> 
 
 ### 👯 I'm looking to collaborate on: 
-- Open-Source projects
-- Personal Projects
+- Projects
+- Games
+- Websites
 
