@@ -34,7 +34,9 @@ Hi everyone! I'm Alex Custódio, a backend and gamedeveloper (With a special int
 <a href="mailto:alex.cstd.contato@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/alex.cstd.contato@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:alex.cstd.contato@gmail.com"/>
 </a>
-
+<a href="https://www.linkedin.com/in/alex-cust%C3%B3dio-74a24b249/">
+  <img src="https://img.shields.io/badge/Alex%20Custódio-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/alex-cust%C3%B3dio-74a24b249/"/>
+</a>
 <a href="https://www.instagram.com/alexcustodiodev/">
   <img src="https://img.shields.io/badge/@alexcustodiodev-ebebeb?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/alexcustodiodev/"/>
 </a>
