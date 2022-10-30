@@ -1,10 +1,6 @@
 <h1 align="center">
 Hi everyone! I'm Alex Custódio, a web fullstack and game developer (learning web 3.0).
 </h1>
-<h3> 🧑‍About me</h3>
-I'm on a data transparency project with Open Knowledge, I had an ecommerce, I won a game creation championship and created a web3 app.
-<br>
-
 <h3>📚 Skills:</h3>
   
 <div>
