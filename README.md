@@ -6,12 +6,12 @@ Hi everyone! I'm Alex Custódio, a web fullstack and game developer (learning we
 <div>
   <img align="center" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
   <img align="center" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" /> 
   <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="right" alt="Hinata" heigh= "160" width="170" src="https://c.tenor.com/tUpqxGUs5jAAAAAd/one-piece-luffy.gif">
 </div>
   
@@ -44,5 +44,6 @@ Hi everyone! I'm Alex Custódio, a web fullstack and game developer (learning we
 
 ### 👯 I'm looking to collaborate on: 
 - Websites
+- Apps
 - Games
 
