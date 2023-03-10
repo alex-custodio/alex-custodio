@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi everyone! I'm Alex Custódio, a web fullstack and game developer (learning Flutter).
+Hi everyone! I'm Alex Custódio, a Mobile Flutter developer and game developer.
 </h1>
 <h3>📚 Skills:</h3>
   
