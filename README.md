@@ -1,21 +1,33 @@
 <h1 align="center">
 Hi everyone! I'm Alex Custódio, a Mobile Flutter developer and game developer.
 </h1>
-<h3>📚 Skills:</h3>
+<h3>😎 Skills:</h3>
   
 <div>
-  <img align="center" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
-  <img align="center" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" /> 
-  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 
-  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="right" alt="Hinata" heigh= "160" width="170" src="https://c.tenor.com/tUpqxGUs5jAAAAAd/one-piece-luffy.gif">
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=FLUTTER&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/python-%230095D5.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F74141?style=for-the-badge&logo=Java)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Docker-228fe1?&style=for-the-badge&logo=docker&logoColor=ffffff)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
+![Godot](https://img.shields.io/badge/Godot-20232A?style=for-the-badge&logo=godot-engine&logoColor=61DAFB)
+![Cocos Creator](https://img.shields.io/badge/Cocos_Creator-92928f?style=for-the-badge&logo=Cocos)
+![](https://img.shields.io/badge/MySQL-1D4A65?style=for-the-badge&logoColor=white&logo=MySQL)
+![](https://img.shields.io/badge/-5C2D91?style=for-the-badge&logoWidth=30&logo=.Net)
+![](https://img.shields.io/badge/C%23-239120?logoWidth=30&style=for-the-badge)
+![](https://img.shields.io/badge/Quarkus-4490e4?&style=for-the-badge&logo=quarkus&logoColor=f15953)
+![](https://img.shields.io/badge/Unity-4490e5?&style=for-the-badge&logo=unity&logoColor=white)
+
+<h3>📚 Learning:</h3>  
   
-<br>
+![](https://img.shields.io/badge/React-191920?style=for-the-badge&logoColor=61DBFB&logo=React)
+![](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logoColor=FFCC31&logo=Firebase)
+</div>
 
 ### 📞Contact Me:
 </p>
@@ -25,16 +37,18 @@ Hi everyone! I'm Alex Custódio, a Mobile Flutter developer and game developer.
 <a href="https://www.linkedin.com/in/alex-cust%C3%B3dio-74a24b249/">
   <img src="https://img.shields.io/badge/Alex%20Custódio-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/alex-cust%C3%B3dio-74a24b249/"/>
 </a>
-<a href="https://www.instagram.com/alexcustodiodev/">
-  <img src="https://img.shields.io/badge/@alexcustodiodev-ebebeb?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/alexcustodiodev/"/>
+<a href="https://www.instagram.com/_alexcustodio/">
+  <img src="https://img.shields.io/badge/@_alexcustodio-ebebeb?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/_alexcustodio/"/>
 </a>
 <br>
 
 ### 🚀 Projects:
 - [The King of Quest](https://anemonaaass.itch.io/the-king-of-quest) My game made for the gamedev.tv 2022 game jam, with [Namur Sebastião](https://github.com/NRTarnished);
+- [IFAL-QD](https://danielfireman.github.io/ifal-qd/) A data transparency project to improve social control through the analysis of appointments and dismissals in the official government gazettes of municipalities in the state of Alagoas, Brazil. [GITHUB](https://github.com/danielfireman/ifal-qd)
+- [Solidifly](https://github.com/alex-custodio/Solidifly) A web3 flutter application that makes the deploy of a smart contract in the Ethereum network and uses method channel through the Java native code to do that, and has a 'login with google' option.
 
 ### 🎓 Education:
-- Técnico em Informática - Insituto Federal de Alagoas - Campus Arapiraca (2021 - Now...) ⌛
+- Técnico em Informática - Insituto Federal de Alagoas - Campus Arapiraca (2021 - Now...) ⌛ (Computer Technician Course in Federal Institute of Alagoas)
 
 <h3>📊 Statistics:</h3>
  <div>
@@ -43,7 +57,7 @@ Hi everyone! I'm Alex Custódio, a Mobile Flutter developer and game developer.
   <img align = "center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-custodio&layout=compact&langs_count=7&hide=html&theme=github_dark"/></br></br>
 
 ### 👯 I'm looking to collaborate on: 
-- Websites
 - Apps
+- Websites
 - Games
 
