@@ -8,6 +8,7 @@ Hi everyone! I'm Alex Custódio, a Mobile Flutter developer and game developer.
 ![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=FLUTTER&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/python-%230095D5.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F74141?style=for-the-badge&logo=Java)
+![](https://img.shields.io/badge/React-191920?style=for-the-badge&logoColor=61DBFB&logo=React)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,15 +19,15 @@ Hi everyone! I'm Alex Custódio, a Mobile Flutter developer and game developer.
 ![Godot](https://img.shields.io/badge/Godot-20232A?style=for-the-badge&logo=godot-engine&logoColor=61DAFB)
 ![Cocos Creator](https://img.shields.io/badge/Cocos_Creator-92928f?style=for-the-badge&logo=Cocos)
 ![](https://img.shields.io/badge/MySQL-1D4A65?style=for-the-badge&logoColor=white&logo=MySQL)
-![](https://img.shields.io/badge/-5C2D91?style=for-the-badge&logoWidth=30&logo=.Net)
 ![](https://img.shields.io/badge/C%23-239120?logoWidth=30&style=for-the-badge)
 ![](https://img.shields.io/badge/Quarkus-4490e4?&style=for-the-badge&logo=quarkus&logoColor=f15953)
 ![](https://img.shields.io/badge/Unity-4490e5?&style=for-the-badge&logo=unity&logoColor=white)
 
 <h3>📚 Learning:</h3>  
   
-![](https://img.shields.io/badge/React-191920?style=for-the-badge&logoColor=61DBFB&logo=React)
+
 ![](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logoColor=FFCC31&logo=Firebase)
+![](https://img.shields.io/badge/Kotlin-191920?style=for-the-badge&logoColor=9400D31&logo=Kotlin)
 </div>
 
 ### 📞Contact Me:
