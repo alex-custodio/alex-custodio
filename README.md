@@ -55,7 +55,7 @@ Hi everyone! I'm Alex Custódio, a Mobile Flutter developer and game developer.
  <div>
   <a href="https://github.com/alex-custodio">
   <img align = "center" height="170em" src="https://github-readme-stats.vercel.app/api?username=alex-custodio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align = "center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-custodio&layout=compact&langs_count=7&hide=html&theme=github_dark"/></br></br>
+  <img align = "center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-custodio&layout=compact&langs_count=7&hide=html,css,swift&theme=github_dark"/></br></br>
 
 ### 👯 I'm looking to collaborate on: 
 - Apps
