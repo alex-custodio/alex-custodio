@@ -45,7 +45,7 @@ Hi everyone! I'm Alex Custódio, a Mobile Flutter developer and game developer.
 
 ### 🚀 Projects:
 - [The King of Quest](https://anemonaaass.itch.io/the-king-of-quest) My game made for the gamedev.tv 2022 game jam, with [Namur Sebastião](https://github.com/NRTarnished);
-- [IFAL-QD](https://danielfireman.github.io/ifal-qd/) A data transparency project to improve social control through the analysis of appointments and dismissals in the official government gazettes of municipalities in the state of Alagoas, Brazil. [GITHUB](https://github.com/danielfireman/ifal-qd)
+- [Exoonero](https://exoonero.org/) A data transparency project to improve social control through the analysis of appointments and dismissals in the official government gazettes of municipalities in the state of Alagoas, Brazil. [GITHUB](https://github.com/exoonero/extrator)
 - [Solidifly](https://github.com/alex-custodio/Solidifly) A web3 flutter application that makes the deploy of a smart contract in the Ethereum network and uses method channel through the Java native code to do that, and has a 'login with google' option.
 
 ### 🎓 Education:
