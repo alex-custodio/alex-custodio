@@ -1,7 +1,10 @@
 <h2 align="center">
 Hi everyone! I'm Alex Custódio, a Fullstack developer and game developer.
-Look at my [Portfolio](https://alexcustodio.vercel.app)
+
 </h2>
+
+Look at my [Portfolio](https://alexcustodio.vercel.app)
+
 <h3>😎 Skills:</h3>
   
 <div>
