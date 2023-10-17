@@ -1,6 +1,7 @@
-<h1 align="center">
-Hi everyone! I'm Alex Custódio, a Mobile Flutter developer and game developer.
-</h1>
+<h2 align="center">
+Hi everyone! I'm Alex Custódio, a Fullstack developer and game developer.
+Look at my [Portfolio](https://alexcustodio.vercel.app)
+</h2>
 <h3>😎 Skills:</h3>
   
 <div>
