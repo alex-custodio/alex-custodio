@@ -48,9 +48,9 @@ Look at my [Portfolio](https://alexcustodio.vercel.app)
 <br>
 
 ### 🚀 Projects:
-- [The King of Quest](https://anemonaaass.itch.io/the-king-of-quest) My game made for the gamedev.tv 2022 game jam, with [Namur Sebastião](https://github.com/NRTarnished);
 - [Exoonero](https://exoonero.org/) A data transparency project to improve social control through the analysis of appointments and dismissals in the official government gazettes of municipalities in the state of Alagoas, Brazil. [GITHUB](https://github.com/exoonero/extrator)
-- [Solidifly](https://github.com/alex-custodio/Solidifly) A web3 flutter application that makes the deploy of a smart contract in the Ethereum network and uses method channel through the Java native code to do that, and has a 'login with google' option.
+- [Solidifly](https://github.com/alex-custodio/Solidifly) A web3 flutter application that makes the deploy of a smart contract in the Ethereum network and uses method channel through the Java native code to do that, and has a 'login with google' option.<br>
+See more on my [Portfolio](https://alexcustodio.vercel.app)
 
 ### 🎓 Education:
 - Técnico em Informática - Insituto Federal de Alagoas - Campus Arapiraca (2021 - Now...) ⌛ (Computer Technician Course in Federal Institute of Alagoas)
